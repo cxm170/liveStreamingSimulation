@@ -1,0 +1,369 @@
+InitDelay: 1800.0 seconds
+averageDelay: 0.0 seconds
+unitVideoDelay: 0.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9988
+Average delay: 1.353
+Average resolution: 309.05
+Average throughput: 1068.94 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 0.25 seconds
+unitVideoDelay: 1.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9988
+Average delay: 1.48
+Average resolution: 314.83
+Average throughput: 1099.71 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 0.5 seconds
+unitVideoDelay: 2.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 1.681
+Average resolution: 320.76
+Average throughput: 1131.31 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 0.75 seconds
+unitVideoDelay: 3.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 1.921
+Average resolution: 326.16
+Average throughput: 1160.24 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 1.0 seconds
+unitVideoDelay: 4.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.13
+Average resolution: 330.3
+Average throughput: 1182.37 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 1.25 seconds
+unitVideoDelay: 5.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.291
+Average resolution: 333.55
+Average throughput: 1200.01 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 1.5 seconds
+unitVideoDelay: 6.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.359
+Average resolution: 334.75
+Average throughput: 1206.34 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 1.75 seconds
+unitVideoDelay: 7.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.445
+Average resolution: 335.98
+Average throughput: 1213.04 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 2.0 seconds
+unitVideoDelay: 8.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.449
+Average resolution: 336.24
+Average throughput: 1214.48 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 2.25 seconds
+unitVideoDelay: 9.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.456
+Average resolution: 336.26
+Average throughput: 1214.48 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 2.5 seconds
+unitVideoDelay: 10.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.489
+Average resolution: 336.75
+Average throughput: 1217.23 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 2.75 seconds
+unitVideoDelay: 11.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.49
+Average resolution: 336.98
+Average throughput: 1218.22 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 3.0 seconds
+unitVideoDelay: 12.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.448
+Average resolution: 336.21
+Average throughput: 1214.02 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 3.25 seconds
+unitVideoDelay: 13.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.483
+Average resolution: 336.68
+Average throughput: 1216.93 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 3.5 seconds
+unitVideoDelay: 14.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.481
+Average resolution: 336.75
+Average throughput: 1217.13 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 3.75 seconds
+unitVideoDelay: 15.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.464
+Average resolution: 336.57
+Average throughput: 1216.08 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 4.0 seconds
+unitVideoDelay: 16.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.526
+Average resolution: 337.86
+Average throughput: 1223.07 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 4.25 seconds
+unitVideoDelay: 17.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.501
+Average resolution: 337.06
+Average throughput: 1218.82 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 4.5 seconds
+unitVideoDelay: 18.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.497
+Average resolution: 337.23
+Average throughput: 1219.57 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 4.75 seconds
+unitVideoDelay: 19.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.51
+Average resolution: 337.44
+Average throughput: 1220.75 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 5.0 seconds
+unitVideoDelay: 20.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.512
+Average resolution: 337.39
+Average throughput: 1220.7 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 5.25 seconds
+unitVideoDelay: 21.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.518
+Average resolution: 337.56
+Average throughput: 1221.73 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 5.5 seconds
+unitVideoDelay: 22.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.537
+Average resolution: 337.96
+Average throughput: 1223.96 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 5.75 seconds
+unitVideoDelay: 23.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.491
+Average resolution: 337.26
+Average throughput: 1219.62 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 6.0 seconds
+unitVideoDelay: 24.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.555
+Average resolution: 338.48
+Average throughput: 1226.38 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 6.25 seconds
+unitVideoDelay: 25.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.542
+Average resolution: 338.14
+Average throughput: 1224.46 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 6.5 seconds
+unitVideoDelay: 26.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.568
+Average resolution: 338.97
+Average throughput: 1229.22 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 6.75 seconds
+unitVideoDelay: 27.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.9989
+Average delay: 2.529
+Average resolution: 337.81
+Average throughput: 1222.97 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 7.0 seconds
+unitVideoDelay: 28.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.51
+Average resolution: 337.74
+Average throughput: 1222.38 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 7.25 seconds
+unitVideoDelay: 29.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.573
+Average resolution: 338.73
+Average throughput: 1227.83 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 7.5 seconds
+unitVideoDelay: 30.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.561
+Average resolution: 338.61
+Average throughput: 1227.19 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 7.75 seconds
+unitVideoDelay: 31.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.556
+Average resolution: 338.62
+Average throughput: 1227.37 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 8.0 seconds
+unitVideoDelay: 32.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.549
+Average resolution: 338.35
+Average throughput: 1225.63 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 8.25 seconds
+unitVideoDelay: 33.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.55
+Average resolution: 338.57
+Average throughput: 1227.07 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 8.5 seconds
+unitVideoDelay: 34.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.561
+Average resolution: 338.92
+Average throughput: 1228.85 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 8.75 seconds
+unitVideoDelay: 35.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.538
+Average resolution: 338.45
+Average throughput: 1226.35 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 9.0 seconds
+unitVideoDelay: 36.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.555
+Average resolution: 338.47
+Average throughput: 1226.6 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 9.25 seconds
+unitVideoDelay: 37.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.566
+Average resolution: 338.6
+Average throughput: 1227.23 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 9.5 seconds
+unitVideoDelay: 38.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.586
+Average resolution: 339.36
+Average throughput: 1231.19 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 9.75 seconds
+unitVideoDelay: 39.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.58
+Average resolution: 339.25
+Average throughput: 1230.42 expected resolution: 480.0
+
+InitDelay: 1800.0 seconds
+averageDelay: 10.0 seconds
+unitVideoDelay: 40.0 seconds
+maxNumberOfVideos: 600
+Average utilization ratio: 0.999
+Average delay: 2.571
+Average resolution: 339.04
+Average throughput: 1229.54 expected resolution: 480.0
+
