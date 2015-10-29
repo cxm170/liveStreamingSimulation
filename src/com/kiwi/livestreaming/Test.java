@@ -14,15 +14,15 @@ public class Test {
 		
 		double averageDelay;
 		
-		for(double k=0;k<=10;k=k+0.25)
-		
+//		for(double k=0;k<=10;k=k+0.25)
+			for(double k = 3; k<=3; k++)
 //		for(double k=0;k<=1.2;k=k+0.05)
 		{
 			averageDelay = k;
 		
-		int simulationTimes = 2000;
+		int simulationTimes = 100;
 		
-		int maxNumberOfVideos = 100; //times 10 seconds is the overall duration
+		int maxNumberOfVideos = 1000; //times 10 seconds is the overall duration
 		
 		double utilization = 0;
 		

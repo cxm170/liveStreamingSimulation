@@ -15,7 +15,9 @@ public class Statistics {
 	public static double averageDelay;
 	
 	public static double unitVideoDelay;
-	
+
+
+
 	//unit: kb/s
 	public final static double _2160P = 11000;
 	public final static double _1440P = 6000;
@@ -37,6 +39,9 @@ public class Statistics {
 	public static LinkedList<Integer> bitrateDecisions = new LinkedList<>();
 	
 	public static LinkedList<Double> inputBandwidths = new LinkedList<>();
+
+	public static LinkedList<Integer> resolutionChanges = new LinkedList<>();
+	public static LinkedList<Double> fileSizeChanges = new LinkedList<>();
 
 	
 
