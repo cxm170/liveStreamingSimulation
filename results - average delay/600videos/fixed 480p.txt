@@ -1,0 +1,260 @@
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.0 seconds
+***unitVideoDelay: 0.0 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.276
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.655
+Average over delay ratio: 0.619
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.1 seconds
+***unitVideoDelay: 0.4 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9985
+Average delay: 2.301
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.671
+Average over delay ratio: 0.589
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.2 seconds
+***unitVideoDelay: 0.8 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9988
+Average delay: 2.259
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.661
+Average over delay ratio: 0.543
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.30000000000000004 seconds
+***unitVideoDelay: 1.2000000000000002 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.303
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.686
+Average over delay ratio: 0.51
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.4 seconds
+***unitVideoDelay: 1.6 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.274
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.667
+Average over delay ratio: 0.467
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.5 seconds
+***unitVideoDelay: 2.0 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.241
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.65
+Average over delay ratio: 0.423
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.6 seconds
+***unitVideoDelay: 2.4 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.247
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.654
+Average over delay ratio: 0.387
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.7 seconds
+***unitVideoDelay: 2.8 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9985
+Average delay: 2.243
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.651
+Average over delay ratio: 0.349
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.7999999999999999 seconds
+***unitVideoDelay: 3.1999999999999997 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.262
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.663
+Average over delay ratio: 0.312
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.8999999999999999 seconds
+***unitVideoDelay: 3.5999999999999996 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.278
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.669
+Average over delay ratio: 0.281
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 0.9999999999999999 seconds
+***unitVideoDelay: 3.9999999999999996 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9985
+Average delay: 2.261
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.67
+Average over delay ratio: 0.25
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.0999999999999999 seconds
+***unitVideoDelay: 4.3999999999999995 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.284
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.665
+Average over delay ratio: 0.218
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.2 seconds
+***unitVideoDelay: 4.8 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9985
+Average delay: 2.259
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.661
+Average over delay ratio: 0.184
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.3 seconds
+***unitVideoDelay: 5.2 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.26
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.662
+Average over delay ratio: 0.159
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.4000000000000001 seconds
+***unitVideoDelay: 5.6000000000000005 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9987
+Average delay: 2.262
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.658
+Average over delay ratio: 0.134
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.5000000000000002 seconds
+***unitVideoDelay: 6.000000000000001 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.267
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.655
+Average over delay ratio: 0.111
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.6000000000000003 seconds
+***unitVideoDelay: 6.400000000000001 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.238
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.637
+Average over delay ratio: 0.09
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.7000000000000004 seconds
+***unitVideoDelay: 6.800000000000002 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9985
+Average delay: 2.275
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.655
+Average over delay ratio: 0.075
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.8000000000000005 seconds
+***unitVideoDelay: 7.200000000000002 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9986
+Average delay: 2.252
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.658
+Average over delay ratio: 0.062
+
+***simulationTimes: 100
+***InitDelay: 30.0 seconds
+***averageDelay: 1.9000000000000006 seconds
+***unitVideoDelay: 7.600000000000002 seconds
+***maxNumberOfVideos: 600
+Average utilization ratio: 0.9987
+Average delay: 2.271
+Average resolution: 480.0
+Average throughput: 10000.0
+Expected resolution: 480.0
+Average variance: 2.661
+Average over delay ratio: 0.049
+
